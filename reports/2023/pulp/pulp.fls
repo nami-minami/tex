@@ -54,6 +54,10 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/mhchem/mhchem.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/mhchem/mhchem.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/mhchem/mhchem.sty
@@ -149,4 +153,5 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT pulp.aux

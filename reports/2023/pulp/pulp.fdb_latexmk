@@ -1,10 +1,10 @@
 # Fdb version 4
-["dvipdf"] 1684232155 "pulp.dvi" "pulp.pdf" "pulp" 1684232155 0
-  "pulp.dvi" 1684232155 3064 5191f24b4a9c18e1338c4d48ec3fa806 "latex"
+["dvipdf"] 1684299470 "pulp.dvi" "pulp.pdf" "pulp" 1684299470 0
+  "pulp.dvi" 1684299470 3904 fe1753d6d2d0ff3b24c0c81c72c33e50 "latex"
   (generated)
   "pulp.pdf"
   (rewritten before read)
-["latex"] 1684232154 "pulp.tex" "pulp.dvi" "pulp" 1684232155 0
+["latex"] 1684299469 "pulp.tex" "pulp.dvi" "pulp" 1684299470 0
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm" 1463434352 1196 1be730212205a270378fba11a44765dc ""
@@ -14,6 +14,7 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1136768653 768 1321e9409b4137d6fb428ac9dc956269 ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty" 1575499628 8356 7bbb2c2373aa810be568c29e333da8ed ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty" 1600895880 17859 4409f8f50cd365c68e684407e5350b1b ""
@@ -43,13 +44,14 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/calc.sty" 1654720880 10214 de3e21cfc0eccc98ca7f8dac0ef263d2 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl" 1644096163 5588 0c1628daf15f4411ff1f463114c634a3 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations.sty" 1644096163 44247 2188b95d0ee74e31eca4d316263c58a7 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2023/texmf-dist/tex/platex/base/jarticle.cls" 1601501154 25873 fd34d08164a3ea7afd6bc7fe99629a3d ""
   "/usr/local/texlive/2023/texmf-dist/tex/platex/base/jsize10.clo" 1601501154 8603 0e3b68ad462d501024c2959e1acaa910 ""
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1681165822 40967 d940221f8762fd5848760382d97d1226 ""
   "/usr/local/texlive/2023/texmf-var/web2c/eptex/platex.fmt" 1683991333 7890313 f7d32698c3fa48c79395141875dfd0c9 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "pulp.aux" 1684232155 32 044b7f8fc9779af7531264e0c5c84b6d "latex"
-  "pulp.tex" 1684232152 2696 d7fdaed689e749a6dcd03e641266fff7 ""
+  "pulp.aux" 1684299470 107 eb59542e2c8d3684d9a38eaaa52c3146 "latex"
+  "pulp.tex" 1684299468 3337 15c9296e93011899332efef0c8401b45 ""
   (generated)
   "pulp.aux"
   "pulp.dvi"
