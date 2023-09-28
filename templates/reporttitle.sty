@@ -1,7 +1,5 @@
 \usepackage{forarray}
 
-\gdef\@thema{}
-\gdef\@partner{}
 \def\thema#1{\gdef\@thema{#1}}
 \def\partner#1{\gdef\@partner{#1}}
 
@@ -10,14 +8,16 @@
 \renewcommand{\maketitle}{
     \begin{titlepage}
         \begin{center}
+            \vspace*{2.5mm}
             {\Large{\textgt{\@thema} \par}}
-            \vspace{20mm}
-            {\LARGE{\textgt{\@title} \par}}
+            \vspace{45mm}
+            {\Huge{\textgt{\@title} \par}}
             \vspace{5mm}
-            {\large{\textgt{\@author} \par}}
-            \vspace{120mm}
+            {\LARGE{\textgt{\@author} \par}}
+            \vspace{115mm}
             \textgt{共同実験者 \par \@partner} \par
             \textgt{\@date}
+            \vspace{2.5mm}
         \end{center}
     \end{titlepage}
 }
