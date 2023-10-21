@@ -1,23 +1,25 @@
 \usepackage{forarray}
 
-\def\thema#1{\gdef\@thema{#1}}
+\def\theme#1{\gdef\@theme{#1}}
 \def\partner#1{\gdef\@partner{#1}}
-
-
 
 \renewcommand{\maketitle}{
     \begin{titlepage}
         \begin{center}
             \vspace*{2.5mm}
-            {\Large{\textgt{\@thema} \par}}
+            {\Large \@theme \par}
             \vspace{45mm}
-            {\Huge{\textgt{\@title} \par}}
+            {\Huge \@title \par}
             \vspace{5mm}
-            {\Large{\textgt{\@author} \par}}
+            {\Large \@author \par}
             \vspace{110mm}
-            \textgt{共同実験者 \par \@partner} \par
-            \textgt{\@date}
+            共同実験者 \par \@partner \par
+            \@date
             \vspace{2.5mm}
         \end{center}
     \end{titlepage}
 }
+
+
+\newcommand{\Hline}[1]{\noalign{\hrule height #1}} 
+
