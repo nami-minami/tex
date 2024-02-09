@@ -6,16 +6,17 @@
 \renewcommand{\maketitle}{
     \begin{titlepage}
         \begin{center}
-            \vspace*{2.5mm}
+			\vspace{1pt}
             {\Large \@header \par}
-            \vspace{45mm}
+			\vskip9\baselineskip
             {\Huge \@title \par}
-            \vspace{5mm}
+			\vskip\baselineskip
             {\Large \@author \par}
-            \vspace{110mm}
+			\vfill
             共同実験者 \par \@partner \par
+			\vskip.5\baselineskip
             \@date
-            \vspace{2.5mm}
+            \vspace{1pt}
         \end{center}
     \end{titlepage}
 }
