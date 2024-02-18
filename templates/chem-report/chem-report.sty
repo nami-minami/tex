@@ -23,5 +23,9 @@
 
 
 \newcommand{\Hline}[2][1.2pt]{\noalign{\hrule height #1}} 
-
-\newcommand{\conc}[1]{[\mathrm{#1}]}
+\newcommand{\conc}[2][]{\ifmmode 
+    [\ch{#2}]_{#1} 
+\else 
+    \([\ch{#2}]_{#1}\)
+\fi
+}
