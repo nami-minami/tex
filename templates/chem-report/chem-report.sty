@@ -6,15 +6,15 @@
 \renewcommand{\maketitle}{
     \begin{titlepage}
         \begin{center}
-			\vspace{1pt}
+            \vspace{1pt}
             {\Large \@header \par}
-			\vskip9\baselineskip
+            \vskip9\baselineskip
             {\Huge \@title \par}
-			\vskip\baselineskip
+            \vskip\baselineskip
             {\Large \@author \par}
-			\vfill
+            \vfill
             共同実験者 \par \@partner \par
-			\vskip.5\baselineskip
+            \vskip.5\baselineskip
             \@date
             \vspace{1pt}
         \end{center}
@@ -23,7 +23,8 @@
 
 
 \newcommand{\Hline}[2][1.2pt]{\noalign{\hrule height #1}} 
-\newcommand{\conc}[2][]{\ifmmode 
+\newcommand{\conc}[2][]{
+\ifmmode 
     [\ch{#2}]_{#1} 
 \else 
     \([\ch{#2}]_{#1}\)
